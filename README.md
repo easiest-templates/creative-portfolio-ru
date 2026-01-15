@@ -1,6 +1,6 @@
 # Креативное портфолио
 
-![Preview](https://cdn.poehali.dev/templates/creative-portfolio-ru/preview-ru.jpg)
+![Preview](https://cdn.poehali.dev/templates/creative-portfolio-ru/preview-v2.jpg)
 
 Стильный шаблон портфолио для дизайнеров и креативщиков. Тёмная тема с эффектным hero-разделом, автоматической сменой фоновых изображений и плавными анимациями. Идеально подойдёт для демонстрации творческих работ и привлечения клиентов.
 
